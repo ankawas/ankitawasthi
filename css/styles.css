@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+img {
+  display: inline-block;
+}
+
+
+h1 {
+  display: inline-block;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* ************** Container Class ********************************************/
+
+.topContainer {
+  background-color: #d2f5e3;
+  padding-top: 50px;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.midContainer {
+  padding-top: 100px;
+  background-color: #94b4a4;
+}
+
+.bottomContainer {
+  padding-top: 50px;
+  background-color: #686d76;
+}
+
+/*************** Misaleaneous class ******************************************/
+.ankitProfile {
+  width: 20%;
+  height: auto;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.cityHall {
+  max-width: 20%;
+  height: auto;
+}
+
+.linkedinLink {
+  max-width: 2%;
+  height: auto;
+}
+
+.twitterLink {
+  max-width: 2%;
+  height: auto;
+}
